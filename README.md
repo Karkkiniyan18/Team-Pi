@@ -5,6 +5,7 @@ Key Features:
 Easy product and stock management
 Real-time sales tracking
 Low-stock alerts and notifications
+Sales and stock analysing dashboard
 Organized sales reports (daily/monthly)
 Simple and intuitive user interface
 Secure data storage
